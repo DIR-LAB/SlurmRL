@@ -1,3 +1,3 @@
 # Makefile for scheduler plugins
 
-SUBDIRS = backfill builtin
+SUBDIRS = backfill builtin rl
